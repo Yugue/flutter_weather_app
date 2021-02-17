@@ -1,8 +1,11 @@
-# weather_app
+# A flutter app built for learning purpose
+## This is an app I made following some tutorials and books to learn Flutter how it works.
 
-A new Flutter project.
+test
 
-## Getting Started
+![Demo1](demo1.png)
+![Demo2](demo2.png)
+![Demo3](demo3.png)
+![Demo4](demo4.png)
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.dev/).
+
