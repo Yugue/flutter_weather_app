@@ -8,4 +8,4 @@ Here are some demos of the app. You can download it into your computer, and run 
 ![Demo3](demo3.png)
 ![Demo4](demo4.png)
 
-<img src="demo3.png" width="40%">
+<img src="demo3.png" width="10%">
