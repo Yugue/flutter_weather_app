@@ -3,7 +3,10 @@
 
 Here are some demos of the app. You can download it into your computer, and run it with the command: flutter run. Make sure that you have the flutter SDK installed and a virtual device connected (can be from android studio).
 
-<img src="demo1.png" width="20%">
-<img src="demo2.png" width="20%">
-<img src="demo3.png" width="20%">
-<img src="demo4.png" width="20%">
+<p float="left">
+  <img src="demo1.png" width="20%">
+  <img src="demo2.png" width="20%">
+  <img src="demo3.png" width="20%">
+  <img src="demo4.png" width="20%">
+</p>
+
