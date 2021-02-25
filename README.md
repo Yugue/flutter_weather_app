@@ -8,7 +8,10 @@ Features include:
 - can select different cities
 - can toggle between celsius and fahrenheit
 - the background changes according to the weather conditions (ex. a raining day will show a cloud and rain, sunny day will be a sun), and lighting will change according to the time of the day (dark during the night, and bright during the day)
+
+To dos:
 - the temperatures and cities are hard-coded. For future improvement, they should be retrieved from an API endpoint
+- Haven't tested the iOS build. Apprently with Flutter, it should work with iOS as well. Can't wait to try it out.
 
 Here are some screen captures of the app:
 <br /><br />
